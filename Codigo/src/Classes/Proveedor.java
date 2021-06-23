@@ -16,7 +16,7 @@ public class Proveedor {
 
     private string direccion;
 
-
+    private int telefono;
 
 
 
